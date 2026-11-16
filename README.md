@@ -64,11 +64,11 @@ Below is a breakdown of top commercial SaaS and desktop proxy platforms for HTTP
 
 Open-source debugging proxies and API response viewers provide data sovereignty, eliminate per-seat licensing costs, and allow programmatic scripting in CI/CD pipelines.
 
-Below entries are **sorted in descending order by GitHub Star count (⭐)**. Every badge links directly to the stargazers page of that repository.
+Below entries are **sorted in descending order by GitHub Stars_Count (⭐)**. Every badge links directly to the stargazers page of that repository.
 
 ### ⭐ Featured Category Leaders
 
-| Project | GitHub Stars | Description |
+| Project | GitHub_Stars | Description |
 |---------|--------------|-------------|
 | **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** | [![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) | **Open-source API development ecosystem and lightweight Postman alternative.** Runs in browser, desktop, and CLI. Provides an instantaneous response viewer with syntax highlighting, header analysis, real-time WebSocket/SSE/GraphQL viewers, response search, and offline-first storage. **MIT licensed**. |
 | **[Bruno](https://github.com/usebruno/bruno)** | [![Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers) | **Fast and git-friendly open-source API client and response explorer.** Stores collections directly in local folder files using the plain-text Bru markup language. Features comprehensive response inspectors (body, headers, timeline, cookies), automated test assertions, and zero cloud lock-in. **MIT licensed**. |
@@ -101,7 +101,7 @@ Contributions are welcome and appreciated! To add or update a tool:
 
 1. 🍴 Fork the repository.
 2. 📝 Update `README.md` following the established table structure.
-3. 🔗 Include official product name, link, concise factual description, pricing/scale details, and accurate GitHub star badges.
+3. 🔗 Include official product name, link, concise factual description, pricing/scale details, and accurate GitHub Stars_Badges.
 4. 🚀 Submit a Pull Request with a clear description of your addition.
 
 ---
